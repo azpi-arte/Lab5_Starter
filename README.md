@@ -7,3 +7,7 @@ I would not use unit testing on a messaging faeture because unit testing is gear
 
 2. 
 I would use unit testing to test the max message length because this is a much more discrete and testable piece of code. It doesn't invole testing whether the other person recieved the text or anything interactive like that.
+
+https://azpi-arte.github.io/Lab5_Starter/expose.html 
+https://azpi-arte.github.io/Lab5_Starter/explore.html
+
